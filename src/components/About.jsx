@@ -17,7 +17,7 @@ const About = () => {
         <div className={darkMode ? "dark" : ""}>
             <div name='about' className='w-full h-screen bg-[#98A8F8] text-gray-900 dark:bg-gray-900 dark:text-gray-50 transition-colors duration-200'>
                 <div className='flex flex-col justify-center items-center w-full h-full'>
-                    <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8 mt-auto sm:mt-0'>
+                    <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
                         <div className='sm:text-right pb-8 pl-4'>
                             <p className='text-4xl font-bold inline border-b-4 border-[#3632aa]'>About Me</p>
                         </div>

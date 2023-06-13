@@ -60,7 +60,7 @@ const Work = () => {
                                     <a href="/">
                                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#98A8F8] font-bold text-lg'>Live Demo</button>
                                     </a>
-                                    <a href='https://github.com/romexblue/' target='_blank' >
+                                    <a href='https://github.com/romexblue/portfolio' target='_blank' >
                                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#98A8F8] font-bold text-lg'>Code</button>
                                     </a>
                                 </div>
