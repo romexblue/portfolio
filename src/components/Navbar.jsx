@@ -3,7 +3,7 @@ import { FaBars, FaTimes, FaFacebook, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill, BsFillMoonStarsFill, BsFillSunFill } from 'react-icons/bs'
 import logo from '../assets/logo.png';
-import resume from '../assets/Resume-Gerome.pdf'
+import resume from '../assets/ResumeGerome.pdf'
 import { Link } from 'react-scroll';
 import AppContext from '../helpers/AppContext'
 
